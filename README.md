@@ -1,2 +1,2 @@
 # demo-
-it is a demo
+hello suryansh this is a demo repo 
